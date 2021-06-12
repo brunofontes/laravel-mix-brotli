@@ -1,0 +1,50 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/run/media/bruno/Multimedia/MyDocuments/Development/_Libraries/JS/laravel-mix-brotli/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+0	package.json	/^        "Bruno Fontes"$/;"	s	array:contributors
+0	package.json	/^        "laravel-mix",$/;"	s	array:keywords
+0.1.0 - 2019-09-18	CHANGELOG.md	/^## 0.1.0 - 2019-09-18$/;"	s	chapter:Changelog
+1	package.json	/^        "brotli"$/;"	s	array:keywords
+1.0.0 - 2019-09-18	CHANGELOG.md	/^## 1.0.0 - 2019-09-18$/;"	s	chapter:Changelog
+BrotliPlugin	index.js	/^var BrotliPlugin = require('brotli-webpack-plugin');$/;"	v
+Changelog	CHANGELOG.md	/^# Changelog$/;"	c
+Installation	README.md	/^## Installation$/;"	s	chapter:brotli for Laravel Mix
+LaravelMixBrotli	index.js	/^class LaravelMixBrotli {$/;"	c
+License	README.md	/^## License$/;"	s	chapter:brotli for Laravel Mix
+author	package.json	/^    "author": "Andreas Berger",$/;"	s
+boot	index.js	/^    boot() {$/;"	m	class:LaravelMixBrotli
+brotli for Laravel Mix	README.md	/^# brotli for Laravel Mix$/;"	c
+brotli-webpack-plugin	package.json	/^        "brotli-webpack-plugin": "^1.1.0"$/;"	s	object:dependencies
+bugs	package.json	/^    "bugs": {$/;"	o
+contributors	package.json	/^    "contributors": [$/;"	a
+dependencies	index.js	/^    dependencies() {$/;"	m	class:LaravelMixBrotli
+dependencies	package.json	/^    "dependencies": {$/;"	o
+description	package.json	/^    "description": "A wrapper around brotli-webpack-plugin for Laravel Mix",$/;"	s
+devDependencies	package.json	/^    "devDependencies": {},$/;"	o
+engines	package.json	/^    "engines": {$/;"	o
+homepage	package.json	/^    "homepage": "https:\/\/github.com\/ndberg\/laravel-mix-brotli",$/;"	s
+keywords	package.json	/^    "keywords": [$/;"	a
+laravel-mix	package.json	/^        "laravel-mix": "^5.0.0"$/;"	s	object:peerDependencies
+license	package.json	/^    "license": "MIT",$/;"	s
+main	package.json	/^    "main": "index.js",$/;"	s
+mix	index.js	/^const mix = require('laravel-mix');$/;"	C
+name	index.js	/^    name() {$/;"	m	class:LaravelMixBrotli
+name	package.json	/^    "name": "laravel-mix-brotli",$/;"	s
+node	package.json	/^        "node": ">=6.0.0"$/;"	s	object:engines
+peerDependencies	package.json	/^    "peerDependencies": {$/;"	o
+register	index.js	/^    register(options = {}) {$/;"	m	class:LaravelMixBrotli
+repository	package.json	/^    "repository": {$/;"	o
+type	package.json	/^        "type": "git",$/;"	s	object:repository
+url	package.json	/^        "url": "https:\/\/github.com\/ndberg\/laravel-mix-brotli.git"$/;"	s	object:repository
+url	package.json	/^        "url": "https:\/\/github.com\/ndberg\/laravel-mix-brotli\/issues"$/;"	s	object:bugs
+version	package.json	/^    "version": "1.1.0",$/;"	s
+webpackConfig	index.js	/^    webpackConfig(webpackConfig) {$/;"	m	class:LaravelMixBrotli
+webpackPlugins	index.js	/^    webpackPlugins() {$/;"	m	class:LaravelMixBrotli

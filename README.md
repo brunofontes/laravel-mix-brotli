@@ -19,7 +19,7 @@ mix.js('resources/js/app.js', 'public/js')
 
 ## Installation
 
-Before you get started, make sure you're using `laravel-mix` version 4 or higher.
+Before you get started, make sure you're using `laravel-mix` version 5 or higher.
 
 You can install the package with yarn or npm:
 
@@ -61,14 +61,6 @@ mix.js('resources/js/app.js', 'public/js')
            			minRatio: 0.8
            		});
 ```
-
-### Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## License
 

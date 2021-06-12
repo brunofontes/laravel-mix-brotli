@@ -1,6 +1,6 @@
 {
     "name": "laravel-mix-brotli",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "A wrapper around brotli-webpack-plugin for Laravel Mix",
     "main": "index.js",
     "repository": {
@@ -12,7 +12,9 @@
         "brotli"
     ],
     "author": "Andreas Berger",
-    "contributors": [],
+    "contributors": [
+        "Bruno Fontes"
+    ],
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/ndberg/laravel-mix-brotli/issues"
@@ -23,7 +25,7 @@
     },
     "devDependencies": {},
     "peerDependencies": {
-        "laravel-mix": "^4.0.0"
+        "laravel-mix": "^5.0.0"
     },
     "engines": {
         "node": ">=6.0.0"
